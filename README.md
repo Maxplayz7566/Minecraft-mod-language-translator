@@ -1,4 +1,9 @@
-# en_us.json --> 94 Other languages!
+# Requirements
+```ansi
+[1;31mPyQt5
+```
+
+## en_us.json --> 94 Other languages!
 
 I just used google translate
 
