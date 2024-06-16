@@ -1,11 +1,6 @@
 # en_us.json --> 94 Other languages!
 supported languges:
-
-	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
+```
 English (Copy to folder)
 German
 French
@@ -100,3 +95,4 @@ Xhosa
 Yiddish
 Yoruba
 Zulu
+```
