@@ -1,4 +1,4 @@
-#en_us.json --> 94 Other languages!
+# en_us.json --> 94 Other languages!
 supported languges:
 {
     "en": ["English (Copy to folder)", "en_us.json"],
