@@ -1,17 +1,16 @@
 # en_us.json --> 94 Other languages!
 supported languges:
 
-{
-    "en": ["English (Copy to folder)", "en_us.json"],
-    "de": ["German", "de_de.json"],
-    "fr": ["French", "fr_fr.json"],
-    "it": ["Italian", "it_it.json"],
-    "es": ["Spanish", "es_es.json"],
-    "pt": ["Portuguese", "pt_br.json"],
-    "nl": ["Dutch", "nl_nl.json"],
-    "ru": ["Russian", "ru_ru.json"],
-    "zh-CN": ["Chinese", "zh_cn.json"],
-    "ja": ["Japanese", "ja_jp.json"],
+English (Copy to folder)
+German
+French
+Italian
+Spanish
+Portuguese
+Dutch
+Russian
+Chinese
+    "ja": ["Japanese
     "ko": ["Korean", "ko_kr.json"],
     "ar": ["Arabic", "ar_sa.json"],
     "tr": ["Turkish", "tr_tr.json"],
