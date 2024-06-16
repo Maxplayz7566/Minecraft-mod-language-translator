@@ -25,74 +25,73 @@ Greek
 Bulgarian
 Czech
 Estonian
-    "hr": ["Croatian", "hr_hr.json"],
-    "hu": ["Hungarian", "hu_hu.json"],
-    "id": ["Indonesian", "id_id.json"],
-    "lt": ["Lithuanian", "lt_lt.json"],
-    "lv": ["Latvian", "lv_lv.json"],
-    "ms": ["Malay", "ms_my.json"],
-    "pl": ["Polish", "pl_pl.json"],
-    "ro": ["Romanian", "ro_ro.json"],
-    "sk": ["Slovak", "sk_sk.json"],
-    "sl": ["Slovenian", "sl_si.json"],
-    "uk": ["Ukrainian", "uk_ua.json"],
-    "af": ["Afrikaans", "af_za.json"],
-    "sq": ["Albanian", "sq_al.json"],
-    "am": ["Amharic", "am_et.json"],
-    "hy": ["Armenian", "hy_am.json"],
-    "az": ["Azerbaijani", "az_az.json"],
-    "eu": ["Basque", "eu_es.json"],
-    "be": ["Belarusian", "be_by.json"],
-    "bn": ["Bengali", "bn_bd.json"],
-    "bs": ["Bosnian", "bs_ba.json"],
-    "ceb": ["Cebuano", "ceb_ph.json"],
-    "ny": ["Chichewa", "ny.json"],
-    "co": ["Corsican", "co_fr.json"],
-    "ht": ["Haitian Creole", "ht_ht.json"],
-    "haw": ["Hawaiian", "haw_us.json"],
-    "iw": ["Hebrew", "iw_il.json"],
-    "jw": ["Javanese", "jw_jw.json"],
-    "kn": ["Kannada", "kn_in.json"],
-    "kk": ["Kazakh", "kk_kz.json"],
-    "km": ["Khmer", "km_kh.json"],
-    "rw": ["Kinyarwanda", "rw_rw.json"],
-    "ku": ["Kurdish (Kurmanji)", "ku_ku.json"],
-    "ky": ["Kyrgyz", "ky_ky.json"],
-    "lo": ["Lao", "lo_la.json"],
-    "la": ["Latin", "la_la.json"],
-    "lb": ["Luxembourgish", "lb_lu.json"],
-    "mk": ["Macedonian", "mk_mk.json"],
-    "mg": ["Malagasy", "mg_mg.json"],
-    "ml": ["Malayalam", "ml_in.json"],
-    "mt": ["Maltese", "mt_mt.json"],
-    "mi": ["Maori", "mi_nz.json"],
-    "mr": ["Marathi", "mr_in.json"],
-    "mn": ["Mongolian", "mn_mn.json"],
-    "my": ["Myanmar (Burmese)", "my_mm.json"],
-    "ne": ["Nepali", "ne_np.json"],
-    "or": ["Odia (Oriya)", "or_in.json"],
-    "ps": ["Pashto", "ps_af.json"],
-    "fa": ["Persian", "fa_ir.json"],
-    "pa": ["Punjabi", "pa_in.json"],
-    "sm": ["Samoan", "sm_ws.json"],
-    "gd": ["Scottish Gaelic", "gd_gb.json"],
-    "sr": ["Serbian", "sr_rs.json"],
-    "st": ["Sesotho", "st_ls.json"],
-    "sn": ["Shona", "sn_zw.json"],
-    "sd": ["Sindhi", "sd_in.json"],
-    "si": ["Sinhala", "si_lk.json"],
-    "so": ["Somali", "so_so.json"],
-    "su": ["Sundanese", "su_id.json"],
-    "tl": ["Filipino", "tl_ph.json"],
-    "tg": ["Tajik", "tg_tj.json"],
-    "ta": ["Tamil", "ta_in.json"],
-    "te": ["Telugu", "te_in.json"],
-    "tr": ["Turkmen", "tr_tm.json"],
-    "ug": ["Uyghur", "ug_cn.json"],
-    "uz": ["Uzbek", "uz_uz.json"],
-    "cy": ["Welsh", "cy_gb.json"],
-    "xh": ["Xhosa", "xh_za.json"],
-    "yi": ["Yiddish", "yi_us.json"],
-    "yo": ["Yoruba", "yo_ng.json"],
-    "zu": ["Zulu", "zu_za.json"]
-}
+Croatian
+Hungarian
+Indonesian
+Lithuanian
+Latvian
+Malay
+Polish
+Romanian
+Slovak
+Slovenian
+Ukrainian
+Afrikaans
+Albanian
+Amharic
+Armenian
+Azerbaijani
+Basque
+Belarusian
+Bengali
+Bosnian
+Cebuano
+Chichewa
+Corsican
+Haitian Creole
+Hawaiian
+Hebrew
+Javanese
+Kannada
+Kazakh
+Khmer
+Kinyarwanda
+Kurdish (Kurmanji)
+Kyrgyz
+Lao
+Latin
+Luxembourgish
+Macedonian
+Malagasy
+Malayalam
+Maltese
+Maori
+Marathi
+Mongolian
+Myanmar (Burmese)
+Nepali
+Odia (Oriya)
+Pashto
+Persian
+Punjabi
+Samoan
+Scottish Gaelic
+Serbian
+Sesotho
+Shona
+Sindhi
+Sinhala
+Somali
+Sundanese
+Filipino
+Tajik
+Tamil
+Telugu
+Turkmen
+Uyghur
+Uzbek
+Welsh
+Xhosa
+Yiddish
+Yoruba
+Zulu
