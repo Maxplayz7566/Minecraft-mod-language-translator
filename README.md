@@ -1,4 +1,7 @@
 # en_us.json --> 94 Other languages!
+[^1]: This is the footnote.
+
+
 supported languges:
 ```
 English (Copy to folder)
