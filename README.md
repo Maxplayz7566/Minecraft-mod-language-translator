@@ -1,7 +1,7 @@
 # en_us.json --> 94 Other languages!
 supported languges:
-	term
-: definition
+term
+   : definition
 ```
 English (Copy to folder)
 German
