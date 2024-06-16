@@ -1,6 +1,6 @@
 # Requirements
 ```ansi
-[1;31mPyQt5
+PyQt5
 ```
 
 ## en_us.json --> 94 Other languages!
