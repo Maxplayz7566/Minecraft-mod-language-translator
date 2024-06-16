@@ -10,21 +10,21 @@ Portuguese
 Dutch
 Russian
 Chinese
-    "ja": ["Japanese
-    "ko": ["Korean", "ko_kr.json"],
-    "ar": ["Arabic", "ar_sa.json"],
-    "tr": ["Turkish", "tr_tr.json"],
-    "hi": ["Hindi", "hi_in.json"],
-    "th": ["Thai", "th_th.json"],
-    "vi": ["Vietnamese", "vi_vn.json"],
-    "fi": ["Finnish", "fi_fi.json"],
-    "sv": ["Swedish", "sv_se.json"],
-    "no": ["Norwegian", "no_no.json"],
-    "da": ["Danish", "da_dk.json"],
-    "el": ["Greek", "el_gr.json"],
-    "bg": ["Bulgarian", "bg_bg.json"],
-    "cs": ["Czech", "cs_cz.json"],
-    "et": ["Estonian", "et_ee.json"],
+Japanese
+Korean
+Arabic
+Turkish
+Hindi
+Thai
+Vietnamese
+Finnish
+Swedish
+Norwegian
+Danish
+Greek
+Bulgarian
+Czech
+Estonian
     "hr": ["Croatian", "hr_hr.json"],
     "hu": ["Hungarian", "hu_hu.json"],
     "id": ["Indonesian", "id_id.json"],
