@@ -1,8 +1,7 @@
 # en_us.json --> 94 Other languages!
-[^1]: This is the footnote.
-
-
 supported languges:
+	term
+: definition
 ```
 English (Copy to folder)
 German
