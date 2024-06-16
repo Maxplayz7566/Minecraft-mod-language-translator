@@ -1,4 +1,7 @@
 # en_us.json --> 94 Other languages!
+
+I just used google translate
+
 supported languges:
 ```
 English (Copy to folder)
